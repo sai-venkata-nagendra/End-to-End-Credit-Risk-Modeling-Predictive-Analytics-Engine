@@ -2,6 +2,7 @@
 
 CreditWise is an enterprise-grade Credit Risk Prediction & Underwriting Assistant powered by machine learning. It provides loan underwriters and credit analysts with instant risk evaluations based on applicant demographics, banking relationships, and loan particulars.
 
+[🚀 Live Demo]([https://your-live-project-url.com](https://end-to-end-credit-risk-modeling-predictive-analytics-engine-vu.streamlit.app/))
 
 ---
 
